@@ -1,0 +1,7 @@
+{
+  // Cloudflare Pages の設定
+  // デプロイ: npx wrangler pages deploy
+  "name": "gemigkodamasi",
+  "pages_build_output_dir": "./dist",
+  "compatibility_date": "2024-09-25"
+}
